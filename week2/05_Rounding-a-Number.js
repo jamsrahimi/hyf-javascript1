@@ -8,4 +8,4 @@ console.log("Rounded to the \'nearest integer\': " + a );
 //Compare and printout the highest value
 //ref: http://speakingjs.com/es5/ch01.html#basic_math
 let highest = Math.max(a,z)
-console.log("\nAfter comparison it seems " + highest +" is the highest number");//How can i put highest in "quotes" here?
+console.log("\nAfter comparison it seems \'" + highest +"\' is the highest number");

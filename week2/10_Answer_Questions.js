@@ -9,7 +9,7 @@ console.log("Adding 4 to the index 3\n" + myMixArray);
 myMixArray.push(true);
 console.log("Adding another boolean to the end of the array\n" + myMixArray);
 console.log("Conclusion: we can add various data types in an array and play with them\n\n")
-console.log("10.2 Can you compare infinities ? (Not in Eyad\'s world) - does 6/0 === 10/0? How can you test this?");
+console.log("10.2 Can you compare infinities ? (Not in Eyad's world) - does 6/0 === 10/0? How can you test this?");
 let eyad = 6 / 0;
 let jams = 10 / 0;
 //ref: http://devdocs.io/javascript-number/
@@ -24,5 +24,5 @@ if (eyad === jams) {
 }
 console.log("Their subtraction equals to: " + (eyad - jams));
 console.log("====================================>");
-console.log("Although mathematically it doesn\'t make sense, but JS says they are equal and beyond my calculation, therefore they are comparable.");
+console.log("Although mathematically it doesn't make sense, but JS says they are equal and beyond my calculation, therefore they are comparable.");
 //10.3 Add console.log statements to the above program's in which you show that you understand the concepts (just like you've done in the above assignments).

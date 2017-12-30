@@ -6,7 +6,7 @@ let x = 7;
 
 x = x % 3;
 console.log(x);
-console.log("Operator \'%\' almost in all languages shows modus(modulus) or remainder after a division");
+console.log("Operator '%' almost in all languages shows modus(modulus) or remainder after a division");
 //now that the value of x is 1, I will divide 1 with 1 to see what the remainder is    
 x = x % 1;
 console.log("now that the value of x is 1, I will divide 1 with 1 to see what the remainder is:");

@@ -1,2 +1,7 @@
 {
+<<<<<<< HEAD
+=======
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\git-bash.exe"
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+>>>>>>> c6e6086f85f603384f2f4a35bb0715fbe761427c
 }

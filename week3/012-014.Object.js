@@ -1,6 +1,7 @@
 'use strict'
 //12.Create an empty object.
 let emptyObject = {};
+let anObject = new Object();
 //13.Create an object that contains the teachers that you have had so far for the different modules.
 let teacherObj1 = {
     'Philip',
